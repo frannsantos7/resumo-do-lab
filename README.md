@@ -1,19 +1,21 @@
-# resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
-
-🌐 Resumo do Laboratório: Benefícios da Nuvem
-
+🌐 Relatório: Tipos de Serviço de Nuvem - Laboratório
 🏗️ Introdução
-Durante o desenvolvimento deste laboratório na DIO, explorei conceitos fundamentais sobre computação em nuvem e sua aplicação prática. Aprendi como criar máquinas virtuais na Azure, entendendo sua configuração e benefícios no contexto empresarial.
+
+Neste laboratório, explorei os principais modelos de serviço de nuvem: IaaS (Infraestrutura como Serviço), PaaS (Plataforma como Serviço) e SaaS (Software como Serviço). Compreendi como cada modelo oferece diferentes níveis de controle e responsabilidade, permitindo empresas e desenvolvedores escolherem a melhor solução para suas necessidades tecnológicas.
 
 ☁️ Principais Aprendizados
-✅ Virtualização na Nuvem – Compreendi como máquinas virtuais são gerenciadas e otimizadas para diferentes propósitos, garantindo escalabilidade e segurança.
+✅ IaaS (Infraestrutura como Serviço) – Esse modelo fornece recursos computacionais como servidores e armazenamento na nuvem, permitindo que usuários configurem sistemas operacionais e aplicativos conforme necessário.
 
-✅ Benefícios do Uso da Azure – Identifiquei como a infraestrutura baseada em nuvem facilita o armazenamento seguro de dados, acessibilidade remota e redução de custos operacionais.
+✅ PaaS (Plataforma como Serviço) – Oferece um ambiente pronto para desenvolvimento, permitindo que os usuários foquem na criação de aplicativos sem precisar gerenciar servidores ou infraestrutura.
 
-✅ Configuração de Recursos – Aprendi a personalizar e implementar instâncias de máquinas virtuais, definindo parâmetros essenciais como CPU, memória e armazenamento.
+✅ SaaS (Software como Serviço) – Aplicativos acessíveis diretamente pela internet, sem necessidade de instalação local, com manutenção e atualizações gerenciadas pelo provedor de nuvem.
 
-✅ Melhorando a Eficiência Operacional – Estudei estratégias para otimizar recursos na nuvem e reduzir custos, garantindo um ambiente tecnológico mais ágil e acessível.
+⚙️ Aplicações Práticas
+Empresas que precisam de infraestrutura escalável podem usar IaaS para criar servidores virtuais flexíveis.
+
+Desenvolvedores de software podem se beneficiar do PaaS, agilizando o desenvolvimento de aplicativos sem preocupações com infraestrutura.
+
+Usuários finais e empresas podem adotar SaaS para acessar softwares sem necessidade de instalação, reduzindo custos e tempo de manutenção.
 
 🚀 Conclusão
-Este laboratório foi uma excelente oportunidade para aprofundar meus conhecimentos em cloud computing e compreender como a nuvem pode transformar operações de TI. Estou ansioso para aplicar esses conceitos em projetos futuros!
+Este laboratório proporcionou um entendimento aprofundado sobre os serviços de nuvem e como aplicá-los em diferentes cenários. A nuvem permite mais escalabilidade, redução de custos e facilidade na gestão de tecnologia, tornando-se essencial para empresas modernas.
